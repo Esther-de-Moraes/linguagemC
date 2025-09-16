@@ -42,7 +42,7 @@ int main() {
         strcpy(situacao1, "Aumento Abusivo");
     } 
     else if (variacao1 == 0.0) {
-        strcpy(situacao1, "Estável");
+        strcpy(situacao1, "Estavel");
     } 
     else if (variacao1 < -3.3) {
         strcpy(situacao1, "Reducao de Preco");
@@ -58,7 +58,7 @@ int main() {
         strcpy(situacao2, "Aumento Abusivo");
     } 
     else if (variacao2 == 0.0) {
-        strcpy(situacao2, "Estável");
+        strcpy(situacao2, "Estavel");
     } 
     else if (variacao2 < -3.3) {
         strcpy(situacao2, "Reducao de Preco");
@@ -74,7 +74,7 @@ int main() {
         strcpy(situacao3, "Aumento Abusivo");
     } 
     else if (variacao3 == 0.0) {
-        strcpy(situacao3, "Estável");
+        strcpy(situacao3, "Estavel");
     } 
     else if (variacao3 < -3.3) {
         strcpy(situacao3, "Reducao de Preco");
